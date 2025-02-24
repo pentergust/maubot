@@ -14,7 +14,7 @@ python = "^3.11"
 loguru = "^0.7"
 aiogram = "^3.18"
 tortoise-orm = "^0.21.7"
-pydantic-settings = "^2.7.1"
+pydantic-settings = "^2.8.0"
 
 
 # Development dependencies ---------------------------------------------
